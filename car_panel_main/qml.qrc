@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Main_module.qml</file>
+        <file>Speed_Box.qml</file>
+        <file>Speed_Box_Item.qml</file>
+        <file>Bar_Fuel.qml</file>
+        <file>Bar_Fuel_Above.qml</file>
+        <file>Custom_CircularGauge.qml</file>
+        <file>NavPanel.qml</file>
+    </qresource>
+    <qresource lang="javascript" prefix="/JScripts">
+        <file>Main_Script.js</file>
+    </qresource>
+</RCC>

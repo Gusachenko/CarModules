@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/myRec">
+        <file>rect3103.png</file>
+        <file>needle1_1.png</file>
+        <file>needle1_2.png</file>
+        <file>white_2_4.png</file>
+        <file>black_1_2.jpg</file>
+        <file>custom_1_1.png</file>
+        <file>declarative-qtlogo.png</file>
+    </qresource>
+</RCC>
